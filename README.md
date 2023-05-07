@@ -14,7 +14,7 @@ Steps:
 10. Filter bounding rectangle
 11. Retrieve result
 
-Check the result in logo folder.
+Check the result in [logo folder](https://github.com/Mark618/HT_Consulting_Interview/tree/main/logo).
 
 ![sample 1](https://github.com/Mark618/HT_Consulting_Interview/blob/b84bb4b7031b7773d9c3c26a52ac88b41188207a/logo/sample_1.jpg)
 
