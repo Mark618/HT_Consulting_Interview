@@ -1,0 +1,13 @@
+train: /content/yolov5/logo/train/images
+val: /content/yolov5/logo/valid/images
+test: /content/yolov5/logo/test/images
+
+nc: 1
+names: ['Logo']
+
+roboflow:
+  workspace: htconsult
+  project: robo-mhwtn
+  version: 2
+  license: MIT
+  url: https://universe.roboflow.com/htconsult/robo-mhwtn/dataset/2
